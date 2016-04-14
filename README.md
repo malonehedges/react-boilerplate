@@ -10,7 +10,6 @@ After cloning the repository don't forget to:
 
 ```
 npm install
-
 ```
 
 ## Author
